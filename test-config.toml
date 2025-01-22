@@ -1,0 +1,20 @@
+[[custom_tasks]]
+name = "list files"
+command = "ls"
+
+[[custom_tasks]]
+name = "echo"
+command = "echo 'Setting up environment'"
+
+[[tasks]]
+name = "print working dir"
+command = "pwd"
+dependencies = ["something something", "something else"]
+
+[[tasks]]
+name = "make dir"
+command = "mkdir -p test-dir"
+
+[[tasks]]
+name = "list file in host root"
+command = "ls /"
