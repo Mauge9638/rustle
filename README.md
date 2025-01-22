@@ -9,7 +9,7 @@ As this project is still in its early stages, the roadmap is still being defined
 
 ### MVP
 - [ ] CLI for task automation
-- [ ] YAML-based task configuration
+- [ ] TOML-based task configuration
 - [ ] Local execution of tasks
 - [ ] Basic error handling
 - [ ] Task dependency management
@@ -20,7 +20,7 @@ As this project is still in its early stages, the roadmap is still being defined
 - [ ] Parallel task execution
 - [ ] Task scheduling
 - [ ] JSON-based task configuration
-- [ ] TOML-based task configuration
+- [ ] YAML-based task configuration
 - [ ] Code-based task configuration
 - [ ] TUI for enhanced usability
 - [ ] Task result caching
